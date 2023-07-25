@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philfontahdev
-- 👀 I’m interested in Nodejs,python,C# and Flutter
+- 👀 I’m interested in Nodejs,python,C# and Flutter,Angular
 - 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on Nodejs,Flutter,Java
+- 💞️ I’m looking to collaborate on Nodejs,Flutter,Java SpringBoot ,C# .Net
 - 📫 How to reach me philfontah911@gmail.com and 683195594
 
 <!---
